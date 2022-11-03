@@ -24,3 +24,5 @@ Marmara Üniversitesi bünyesinde Kodluyoruz ortaklığı ile Yazılıma Başlan
                          
  2-Big-O gösterimini yazınız: O(nlogn)
  
+**Elif Yağmur Güneş**
+ 
